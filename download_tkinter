@@ -1,0 +1,3 @@
+su root                //切换到根目录下
+Password:              //输入密码
+yum install tkinter    //安装Tkinter，需要注意，这里“tkinter”的“t”是小写
