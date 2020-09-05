@@ -8,5 +8,4 @@ creat a liu_yan_ban by Python.
 
 #相关补充
 网站：www.lolplayer.club
-公众号：认知无线电
-小程序：点滴问候
+
