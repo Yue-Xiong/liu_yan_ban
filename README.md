@@ -1,5 +1,5 @@
 # liu_yan_ban
-creat a liu_yan_ban by Python.
+使用Python创建一个简单的留言板
 
 # 参考资料
 1. RUNOOB.COM 《Python GUI 编程（Tkinter）》
